@@ -168,14 +168,6 @@
 
 
 
-d=dict()
-p={'ODI1':{'Kohli':142,'Dhoni':112}, 'ODI2':{'Kohli':110 , 'Dhoni':105, 'Jadega':149}}
-for i,j in p.items():
-   .items():
-        if a not in d:
-            d=a
-         
-print(d)
 
 
 
