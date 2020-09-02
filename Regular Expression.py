@@ -62,12 +62,12 @@
     
 
 #FInd Domain names from a file:
-import re
-fhand=open('mbox-short.txt')
-for line in fhand:
-    y=re.findall('@([^ ]*)',line)
-    if len(y)>0:
-        print(y)
+#import re
+#fhand=open('mbox-short.txt')
+#for line in fhand:
+#    y=re.findall('@([^ ]*)',line)
+#    if len(y)>0:
+#        print(y)
 
 
 
